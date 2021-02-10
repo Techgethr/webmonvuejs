@@ -1,4 +1,4 @@
-# WebMonetization Generic JS Helper
+# WebMonetization Vue JS Helper
 VueJS Helper for implementing WebMonetization Specification (https://webmonetization.org/)
 
 ## License
